@@ -115,3 +115,40 @@ button:hover {
   
 </div>
   
+
+
+
+
+
+.glogo {
+    margin-left: auto;
+    margin-right: auto;
+    height: 100%;
+    display: block;
+    clear: both
+}​
+
+img {
+    margin: 50px auto 20px;
+    width: 20em;
+    display: block;
+    clear: both;
+}
+.button {
+    background-color: #e7e7e7;
+    border: none;
+    color: white;
+    padding: 15px 32px;
+    text-align: center;
+    text-decoration: none;
+    display: inline-block;
+    margin: 4px 2px;
+    font-size: 16px;
+    border-radius: 12px;
+    transition-duration: 0.4s;
+}
+
+.button:hover {
+    background-color: #bdc4bd;
+    color: white;
+}
